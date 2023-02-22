@@ -1,0 +1,15 @@
+{
+  "name": "Pod plugin",
+  "description": "sets up a pod template",
+  "version": "1.0.0",
+  "author": "Amos",
+  "repository": "https://github.com/amosehiguese/monokle-template-plugin",
+  "monoklePlugin": {
+    "modules": [
+      {
+        "type": "template",
+        "path": "pod-template"
+      }
+    ]
+  }
+}
