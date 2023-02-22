@@ -1,6 +1,6 @@
 {
   "name": "Kubernetes Pod",
-  "id": "io.kubeshop.monokle.templates.default.basic-pod-template",
+  "id": "com.github.amosehiguese.plugin.templates.pod-template",
   "author": "Amos",
   "version": "1.0.0",
   "description": "Creates a Pod for a specified Image",
