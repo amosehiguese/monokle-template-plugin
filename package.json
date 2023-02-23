@@ -3,15 +3,14 @@
   "version": "1.0.0",
   "description": "sets up a pod template",
   "author": "amos",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/amosehiguese/monokle-template-plugin.git"
-  },
+  "repository": "https://github.com/amosehiguese/monokle-template-plugin",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/amosehiguese/monokle-template-plugin/issues"
   },
   "monoklePlugin": {
+    "id": "com.github.amosehiguese.plugin.templates",
+    "helpUrl": "https://github.com/amosehiguese/monokle-template-plugin",
     "modules": [
       {
         "type": "template",
